@@ -44,9 +44,10 @@ url-shortner is a simple and lightweight URL shortener built using **Next.js** a
 
 ## 📦 Installation
 
-1. Clone the repository:
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/your-username/url-shortner.git
+git clone https://github.com/Manoj-kumar-gs/LinkTree-clone.git
 cd url-shortner
 
 2. Install dependencies:
